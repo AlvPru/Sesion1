@@ -1,1 +1,1 @@
-Ramas 3, lista para fusionar con la principal
+Ramas principal, fusionada con la rama 3
